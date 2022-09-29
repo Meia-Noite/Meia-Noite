@@ -4,7 +4,7 @@
  <details>
  <summary>Um pouco sobre mim!
   
- Ola, me chamo Walter Emanuel Rodrigues.
+ Ola, me chamo Natália Duarte.
   
  Comecei na área de desenvolvimento e programação a alguns mêses via cursos da Udemy, pretendo me especializar na área o mais rapido possivel!
   Atualmente estou familiarizado com HTML5, CSS e JS. Pretendo continuar os estudos seguindo para Bootstrap e React.
