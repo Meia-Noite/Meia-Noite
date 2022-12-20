@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github.com/Meia-Noite?tab=repositories"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaltRod&layout=compact&langs_count=7&theme=synthwave"/>
    <img align="center"  alt="poke" src="https://media.tenor.com/Qxj14bQYHjoAAAAC/dragon-ball-z-dbz.gif)">
-</div>
+</div>>
 <div align="center" style="display: inline_block"><br>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="HTML" height="60" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="CSS" height="60" style="vertical-align:top; margin:4px">
@@ -35,4 +35,4 @@ Here are some ideas to get you started:
  
   ![Snake animation](https://github.com/WaltRod/WaltRod/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+</div>>
