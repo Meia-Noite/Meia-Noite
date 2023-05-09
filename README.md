@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
 
-![DevDuarte GitHub Status](https://github-readme-stats.vercel.app/api?username=Meia-Noite&show_icons=true&theme=transparent)
+![DevDuarte GitHub Status](https://github-readme-stats.vercel.app/api?username=Meia-Noite&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meia-Noite&layout=compact&theme=transparent)](https://github.com/Meia-Noite/github-readme-stats)
 
 
 ## Tecnologias que eu uso
